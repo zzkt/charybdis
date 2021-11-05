@@ -15,8 +15,7 @@ For reference, comparison and reading the [[https://github.com/manna-harbour/qmk
 #+caption: alphanumeric, movement and mouse layers
 [[file:img/zzkt-charybdis-4x6.png]]
 
-
-see also [[http://www.keyboard-layout-editor.com/#/gists/d94578d8f4d7e0b961b52790e8c3a367][KLE layers (pt.1)]] and KLE layers (pt.2) etc.
+see also [[http://www.keyboard-layout-editor.com/#/gists/23a1ccf0a44185ebbe90014839799b89][KLE layers (pt.1)]] and KLE layers (pt.2) etc.
 
 * general principles
 
