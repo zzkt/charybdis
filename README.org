@@ -317,7 +317,6 @@ qmk flash -km zzkt -bl dfu-split-right
 
 * further
 
- - [[https://config.qmk.fm/#/crkbd/rev1/common/LAYOUT_split_3x6_3][QMK Configurator]] (for crkbd)
- - [[https://josef-adamcik.cz/electronics/corne-keyboard-build-log.html][Build log - Josef Adamčík]]
- - [[https://thomasbaart.nl/2018/11/26/corne-keyboard-helidox-build-log/][Build log - Thomas Baart]]
+ - [[https://bastardkb.com/charybdis/][Charybdis kits]], [[https://github.com/Bastardkb/Charybdis][code]], stl files and docs from [[https://bastardkb.com/][Bastard Keyboards]]
+ - [[https://www.patreon.com/posts/54519382][Build log - Quentin LEBASTARD]]
  - [[https://en.wikipedia.org/wiki/Keyboard_layout][Keyboard Layouts]] (wikipedia)
